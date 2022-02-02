@@ -10,19 +10,19 @@ Aqui nesse repositório você encontra o "best of", o compilado dos melhores pos
 
 ## Disco 1 - Frontend:
 
-1. [Frontend](<https://twitter.com/search?lang=pt&q=(%23frontend)%20(from%3Ainkasadev)>)
-2. [HTML](<https://twitter.com/search?lang=pt&q=(%23html)%20(from%3Ainkasadev)>)
-3. [CSS](<https://twitter.com/search?lang=pt&q=(%23css)%20(from%3Ainkasadev)>)
+1. Frontend
+2. HTML
+3. CSS
 4. [Javascript](<https://twitter.com/search?lang=pt&q=(%23javascript)%20(from%3Ainkasadev)>)
 
 ## Disco 2 - Blockchain:
 
 1. [Blockchain](<https://twitter.com/search?lang=pt&q=(%23blockchain)%20(from%3Ainkasadev)>)
-2. [Smart Contracts](<https://twitter.com/search?lang=pt&q=(%23smartContracts)%20(from%3Ainkasadev)>)
-3. [Solity](<https://twitter.com/search?lang=pt&q=(%23solidity)%20(from%3Ainkasadev)>)
-4. [Truffle](<https://twitter.com/search?lang=pt&q=(%23truffle)%20(from%3Ainkasadev)>)
-5. [Ganache](<https://twitter.com/search?lang=pt&q=(%23ganache)%20(from%3Ainkasadev)>)
-6. [Drizzle](<https://twitter.com/search?lang=pt&q=(%23drizzle)%20(from%3Ainkasadev)>)
+2. Smart Contracts
+3. Solity
+4. Truffle
+5. Ganache
+6. Drizzle
 
 ## Disco 3 - Mercado:
 
