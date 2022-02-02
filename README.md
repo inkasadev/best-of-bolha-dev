@@ -36,7 +36,7 @@ Aqui nesse repositório você encontra o "best of", o compilado dos melhores pos
 
 ## Como contribuir
 
-Quer colaborar com o projeto? Simples, quando você ver uma discussão ou uma thread legal no twitter, é só você me marcar e (se quiser) sugerir uma hashtag para aquele assunto. Você também pode compartilhar o projeto com amigos e deixar uma star no projeto, se você quiser.
+Quer colaborar com o projeto? Simples, quando você ver uma discussão ou uma thread legal no twitter, é só você me marcar (@inkasadev) e (se quiser) sugerir uma hashtag para aquele assunto. Você também pode compartilhar o projeto com amigos e deixar uma star no projeto, se você quiser.
 
 ## Autor
 
